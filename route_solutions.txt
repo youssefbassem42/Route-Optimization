@@ -1,0 +1,113 @@
+Cairo to Alexandria: Cairo -> Alexandria
+Cairo to Alexandria: Cairo -> Alexandria
+Cairo to Alexandria: Cairo -> Alexandria
+Cairo to Aswan: Cairo -> Aswan
+Cairo to Aswan: Cairo -> Aswan
+Route from Cairo to Alexandria: Cairo -> Mansoura -> Alexandria
+Total Distance: 180 km
+Total Time: 3 hours
+Route Details:
+- Cairo to Mansoura: Distance 120 km, Time 2 hours
+- Mansoura to Alexandria: Distance 60 km, Time 1 hours
+
+Route from Cairo to Alexandria: Cairo -> Mansoura -> Alexandria
+Total Distance: 180 km
+Total Time: 3 hours
+Route Details:
+- Cairo to Mansoura: Distance 120 km, Time 2 hours
+- Mansoura to Alexandria: Distance 60 km, Time 1 hours
+
+Route from Cairo to Aswan: Cairo -> Aswan
+Total Distance: 865 km
+Total Time: 10 hours
+Route Details:
+- Cairo to Aswan: Distance 865 km, Time 10 hours
+
+Route from Cairo to Aswan: Cairo -> Sohag -> Luxor -> Aswan
+Total Distance: 860 km
+Total Time: 11.5 hours
+Route Details:
+- Cairo to Sohag: Distance 460 km, Time 6 hours
+- Sohag to Luxor: Distance 185 km, Time 2.5 hours
+- Luxor to Aswan: Distance 215 km, Time 3 hours
+
+Route from Cairo to Aswan: Cairo -> Aswan
+Total Distance: 865 km
+Total Time: 10 hours
+Route Details:
+- Cairo to Aswan: Distance 865 km, Time 10 hours
+
+Route from Cairo to Aswan: Cairo -> Sohag -> Luxor -> Aswan
+Total Distance: 860 km
+Total Time: 11.5 hours
+Route Details:
+- Cairo to Sohag: Distance 460 km, Time 6 hours
+- Sohag to Luxor: Distance 185 km, Time 2.5 hours
+- Luxor to Aswan: Distance 215 km, Time 3 hours
+
+Route from Cairo to Aswan: Cairo -> Aswan
+Total Distance: 865 km
+Total Time: 10 hours
+Route Details:
+- Cairo to Aswan: Distance 865 km, Time 10 hours
+
+Route from Cairo to Aswan: Cairo -> Sohag -> Luxor -> Aswan
+Total Distance: 860 km
+Total Gas Cost: 1228.5714285714287 EGP
+Total Time: 14.333333333333334 hours
+
+Route from Cairo to Aswan: Cairo -> Saint Catherine -> Sharm El Sheikh -> Luxor -> Aswan
+Total Distance: 1145 km
+Total Gas Cost: 1635.7142857142858 EGP
+Total Time: 19.083333333333332 hours
+
+Route from Cairo to Aswan: Cairo -> Aswan
+Total Distance: 865 km
+Total Gas Cost: 1235.7142857142858 EGP
+Total Time: 14.416666666666666 hours
+
+Route from Cairo to Aswan: Cairo -> Sohag -> Luxor -> Aswan
+Total Distance: 860 km
+Total Gas Cost: 1228.5714285714287 EGP
+Total Time: 14.333333333333334 hours
+
+Route from Cairo to Aswan: Cairo -> Saint Catherine -> Sharm El Sheikh -> Luxor -> Aswan
+Total Distance: 1145 km
+Total Gas Cost: 1635.7142857142858 EGP
+Total Time: 19.083333333333332 hours
+
+Route from Cairo to Aswan: Cairo -> Aswan
+Total Distance: 865 km
+Total Gas Cost: 1235.7142857142858 EGP
+Total Time: 14.416666666666666 hours
+
+Route from Cairo to Aswan: Cairo -> Sohag -> Luxor -> Aswan
+Total Distance: 860 km
+Total Gas Cost: 1228.5714285714287 EGP
+Total Time: 14.333333333333334 hours
+
+Route from Cairo to Aswan: Cairo -> Sohag -> Luxor -> Aswan
+Total Distance: 860 km
+Total Gas Cost: 1228.5714285714287 EGP
+Total Time: 14.333333333333334 hours
+
+Route from Cairo to Aswan: Cairo -> Saint Catherine -> Sharm El Sheikh -> Luxor -> Aswan
+Total Distance: 1145 km
+Total Gas Cost: 1635.7142857142858 EGP
+Total Time: 19.083333333333332 hours
+
+Route from Cairo to Aswan: Cairo -> Aswan
+Total Distance: 865 km
+Total Gas Cost: 1235.7142857142858 EGP
+Total Time: 14.416666666666666 hours
+
+Route from Cairo to Aswan: Cairo -> Sohag -> Luxor -> Aswan
+Total Distance: 860 km
+Total Gas Cost: 1228.5714285714287 EGP
+Total Time: 14.333333333333334 hours
+
+Route from Hurghada to Cairo: Hurghada -> Cairo
+Total Distance: 462 km
+Total Gas Cost: 660.0 EGP
+Total Time: 7.7 hours
+

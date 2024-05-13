@@ -1,0 +1,92 @@
+{
+  "Cairo": {
+    "Alexandria": {"distance": 208, "time": 3.5},
+    "Luxor": {"distance": 670, "time": 8},
+    "Aswan": {"distance": 865, "time": 10}
+  },
+  "Alexandria": {
+    "Cairo": {"distance": 208, "time": 3.5},
+    "Luxor": {"distance": 716, "time": 9},
+    "Aswan": {"distance": 911, "time": 11}
+  },
+  "Luxor": {
+    "Cairo": {"distance": 670, "time": 8},
+    "Alexandria": {"distance": 716, "time": 9},
+    "Aswan": {"distance": 215, "time": 3}
+  },
+  "Aswan": {
+    "Cairo": {"distance": 865, "time": 10},
+    "Alexandria": {"distance": 911, "time": 11},
+    "Luxor": {"distance": 215, "time": 3}
+  },
+  "Hurghada": {
+    "Cairo": {"distance": 462, "time": 5.5},
+    "Luxor": {"distance": 260, "time": 3}
+  },
+  "Sharm El Sheikh": {
+    "Cairo": {"distance": 504, "time": 6},
+    "Luxor": {"distance": 370, "time": 4.5}
+  },
+  "Dahab": {
+    "Cairo": {"distance": 610, "time": 7.5},
+    "Luxor": {"distance": 420, "time": 5}
+  },
+  "Marsa Alam": {
+    "Cairo": {"distance": 678, "time": 8.5},
+    "Luxor": {"distance": 280, "time": 3.5}
+  },
+  "Siwa Oasis": {
+    "Cairo": {"distance": 740, "time": 10},
+    "Alexandria": {"distance": 570, "time": 7}
+  },
+  "Tanta": {
+    "Cairo": {"distance": 90, "time": 1.5},
+    "Alexandria": {"distance": 120, "time": 2},
+    "Port Said": {"distance": 170, "time": 2.5}
+  },
+  "Mansoura": {
+    "Cairo": {"distance": 120, "time": 2},
+    "Alexandria": {"distance": 60, "time": 1},
+    "Port Said": {"distance": 180, "time": 2.5}
+  },
+  "Suez": {
+    "Cairo": {"distance": 135, "time": 2},
+    "Port Said": {"distance": 235, "time": 3.5}
+  },
+  "Ismailia": {
+    "Cairo": {"distance": 120, "time": 2},
+    "Port Said": {"distance": 120, "time": 2}
+  },
+  "Beni Suef": {
+    "Cairo": {"distance": 120, "time": 2},
+    "Minya": {"distance": 80, "time": 1.5}
+  },
+  "Sohag": {
+    "Cairo": {"distance": 460, "time": 6},
+    "Luxor": {"distance": 185, "time": 2.5}
+  },
+  "Qena": {
+    "Cairo": {"distance": 655, "time": 8},
+    "Luxor": {"distance": 60, "time": 1}
+  },
+  "Kom Ombo": {
+    "Cairo": {"distance": 680, "time": 8.5},
+    "Luxor": {"distance": 55, "time": 1}
+  },
+  "Edfu": {
+    "Cairo": {"distance": 700, "time": 9},
+    "Luxor": {"distance": 100, "time": 1.5}
+  },
+  "El Arish": {
+    "Cairo": {"distance": 440, "time": 5},
+    "Port Said": {"distance": 335, "time": 4}
+  },
+  "Ras Sedr": {
+    "Cairo": {"distance": 210, "time": 3},
+    "Suez": {"distance": 95, "time": 1.5}
+  },
+  "Saint Catherine": {
+    "Cairo": {"distance": 470, "time": 6},
+    "Sharm El Sheikh": {"distance": 90, "time": 1.5}
+  }
+}
