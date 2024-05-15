@@ -1,0 +1,6 @@
+tkinter
+networkx
+requests
+googlemaps
+matplotlib
+pillow
